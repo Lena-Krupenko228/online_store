@@ -1,0 +1,13 @@
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt/
+*.exe
+*.out
+*.obj 
+*.log
+*.tmp
+.vscode/
+.idea/
+*.user
+*.vcxproj*
